@@ -1,0 +1,241 @@
+body{
+    margin: 0% !important;
+    padding: 0% !important;
+    background-color:rgb(245, 241, 241);
+    box-sizing: border-box;
+}
+
+
+/***********header css***/
+.heder{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 10px;
+    color: white;
+    background:black;
+    box-shadow: red 2px 2px 2px;
+}
+
+
+
+/****REALESTATEDEALERS CSS*****/
+.pr{
+    color: red;
+    box-shadow: white 2px 2px 2px;
+    border-radius: 5px;
+}
+
+ 
+/*****unordered list***/
+.unorderlist{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: -80cm;
+    
+   
+}
+.unorderlist li{
+    list-style: none;
+    padding: 0px 30px;
+}
+.unorderlist li .c{
+    color: white;
+    text-decoration: none;
+    padding: 6px 25px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.2s;
+    margin: 0px 10px;
+}
+.unorderlist li .c:hover{
+   color: white;
+   background-color: red;
+   box-shadow: blanchedalmond 2px 2px 2px;
+   
+}
+.unorderlist li .LOG{
+    background-color:red;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 6px 25px;
+    font-size: 20px;
+    border-radius: 5px;
+    transition: 0.9s;
+    margin: 0px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    box-shadow: blanchedalmond 2px 2px 2px;
+}
+
+.unorderlist li .LOG:hover{
+    color: yellowgreen;
+    box-shadow: yellowgreen 2px 2px 2px;
+}
+
+
+
+
+
+
+
+
+/************mein css****/
+.mein{
+    width: 90vw;
+    margin: 0 auto;
+    padding: 30px 30px;
+}
+.firstbanner{
+    display: flex;
+    margin-top: 5%;
+    justify-content: calc(5px);
+    background-color:whitesmoke;
+    box-shadow: red 2px 2px;
+    border-radius: 20px;
+    
+    
+
+}
+.hed1{
+    text-align: center;
+    color: yellowgreen;
+    font-size: 60px;
+   
+}
+
+.parag1{
+    margin-left: 2%;
+    font-weight: bold;
+    font-size:25px ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.join-us{
+    text-decoration: none;
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding: 6px 25px;
+    border-radius:5px ;
+    transition: 1s;
+}
+.join-us:hover{
+    color: white;
+    background-color: red;
+    box-shadow:yellowgreen 2px 2px 2px;
+}
+
+.vidmp4{
+    width: 7cm;
+    height: 7cm;
+    border-radius: 2px;
+    margin-right: 4%;
+   
+}
+.emej1{
+    width: 7cm;
+    height: 7cm;
+    border-radius: 2px;
+    margin-right: 4%;
+}
+.emej2{
+    width: 7cm;
+    height: 7cm;
+    border-radius: 2px;
+    margin-right: 4%
+
+}
+.f-products{
+    text-align: center;
+}
+
+
+
+/*******FEATURED PRODUCTS*****/
+.mein2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.f-products-container{
+    padding: 6px 25px;
+  
+    
+}
+.w-house{
+    width: 7cm;
+    height: 7cm;
+}
+.p-house{
+    text-align: center;
+    padding: 6px 25px;
+    color: black;
+    background: white;
+    border-radius: 5px;
+    box-shadow: yellowgreen 2px 2px 2px;
+}
+
+
+
+
+
+
+/******footer css*****/
+.futer{
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:black;
+    color:white;
+    box-shadow: red 4px 4px 4px 4px;
+    
+}
+ .f{
+    display: flex;
+    justify-content: space-between;
+ }
+/**abt css**/
+.abt a{
+    text-decoration: none;
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.abt .b:hover{
+    color: red;
+    box-shadow: white 2px 2px 2px;
+    
+}
+
+/**copyright**/
+.CR{
+    text-align: center;
+    -ms-flex-align: end;
+}
+.fut{
+    box-shadow: yellowgreen 2px 2px 2px;
+    border-radius: 5px;
+    padding: 6px 25px;
+}
+.adres{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.social{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
+
+
+/******************************************LOGIN SCREEN SYTLE SHEET******************/
+
+
+
+
+
+
